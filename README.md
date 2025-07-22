@@ -1,4 +1,4 @@
-* Grundbegriff Verantwortungsvoller KI
+# Grundbegriff Verantwortungsvoller KI
 
 A series of flashcards (or LinkedIn Sliders) on responsible AI
 Files available as PDF and afpub (Affinity Publisher)
